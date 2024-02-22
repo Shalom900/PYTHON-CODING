@@ -1,0 +1,5 @@
+NAME = str(input("What is your name?:  "))
+Age = int(input("What is your real age?  "))
+Age_Substract = 2023 - int(Age)
+print(Age)
+print(NAME, 2023 - Age )

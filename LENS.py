@@ -1,0 +1,3 @@
+NAME_1 = "TO COUNT THE NUMBERS OF INPUTTED VALUES"
+print(NAME_1)
+print((len(NAME_1)))

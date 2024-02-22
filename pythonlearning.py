@@ -1,0 +1,10 @@
+NAME = input("WHAT IS YOUR NAME?:  ")
+AGE = input("WHAT IS YOUR AGE?:  ")
+COLOUR = input("WHAT IS YOUR FAVOURITE COLOUR?:  ")
+BIRTH_YEAR = input("Birth Year:  ")
+age = 2023 + int(BIRTH_YEAR)
+print(type(BIRTH_YEAR))
+print(type(age))
+print(NAME  + " IS ", AGE + " AND "" HE LIKES " + COLOUR)
+print("HIS ACTUAL AGE IS ", + age)
+
